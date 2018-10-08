@@ -12,6 +12,7 @@ class ControlPresupuesto extends Component{
 
 			/>
 			<Restante
+			presupuesto={this.props.presupuesto}
 			restante={this.props.restante}
 
 
